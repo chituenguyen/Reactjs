@@ -1,0 +1,5 @@
+export const MSG_SUCCESS='mua hang thanh cong'
+export const MSG_UPDATE='cap nhat thanh cong'
+export const MSG_DELETE='xoa thanh cong'
+export const MSG_CART_EMPTY='chua co hang '
+export const WELCOME='welcome'
